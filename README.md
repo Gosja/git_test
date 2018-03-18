@@ -1,0 +1,1 @@
+This is Gosja's first git project!
